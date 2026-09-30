@@ -8,7 +8,7 @@ The lab demonstrates how ACLs can allow general network connectivity while restr
 
 ## Network Topology
 
-![ACL Hit Counters](images/Lab2_show_access-lists.png)
+![Lab 2 Network Topology](images/Lab2_Topology.png)
 
 The network consists of three VLANs:
 
