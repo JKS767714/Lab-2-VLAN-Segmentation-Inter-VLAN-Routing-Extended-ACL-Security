@@ -64,7 +64,7 @@ During testing, connectivity to an Operations host initially failed because traf
 ACL match counters helped confirm that the ACL was permitting the traffic, leading to verification of the destination IP address rather than unnecessary ACL changes.
 
 This demonstrated the importance of validating addressing and using device output to isolate the actual source of a connectivity problem.
-
+https://github.com/JKS767714/Lab-2-VLAN-Segmentation-Inter-VLAN-Routing-Extended-ACL-Security/blob/main/images/Lab2_Sucessful_IT.png
 ## Key Takeaways
 
 - VLANs create separate logical network segments.
