@@ -36,7 +36,7 @@ The network was configured with:
 
 The ACL was designed to prevent HR users in VLAN 10 from accessing HTTP services in VLAN 20 while allowing other IP traffic.
 
-![Lab 2 Access List](images/Lab2_show access-lists.png)
+![Lab 2 Access List](images/Lab2_show%20access-lists.png) 
 
 interface g0/0.10
  ip access-group 100 in
