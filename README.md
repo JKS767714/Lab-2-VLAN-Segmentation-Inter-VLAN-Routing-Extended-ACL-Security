@@ -66,6 +66,8 @@ ACL match counters helped confirm that the ACL was permitting the traffic, leadi
 This demonstrated the importance of validating addressing and using device output to isolate the actual source of a connectivity problem.
 ![Successful Ping](images/Lab2_Sucessful_IT.png)
 ![Blocked HTTP](images/Lab2_Request_Timeout_Blocked.png)
+![Blocked HTTP](images/Lab2_Request_Timeout_Blocked.png)
+![Successful IT Access](images/Lab2_Sucessful_IT.png)
 ## Key Takeaways
 
 - VLANs create separate logical network segments.
